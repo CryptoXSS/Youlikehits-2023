@@ -1,9 +1,9 @@
 YT.user.js
 or
-Subscribirse.user.js
+Suscribirse.user.js
 
 Después de usarlo te recomiendo que lo desactives a los dos para evitar que te andes suscribiendo a otros canales de YouTube mientras navegas por el mismo.
 
 Recuerda usar solo uno el YT.user.js
 o
-Subscribirse.user.js Recomendado.
+Suscribirse.user.js Recomendado.
