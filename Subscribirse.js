@@ -13,7 +13,7 @@ function buscarPalabras() {
   var elemento1 = document.querySelector('.yt-spec-button-shape-next.yt-spec-button-shape-next--filled.yt-spec-button-shape-next--mono.yt-spec-button-shape-next--size-m');
   var elemento2 = document.querySelector('.ytd-subscribe-button-renderer');
 
-  if (elemento1 && elemento1.innerText.includes('Suscribirse')) {
+  if (elemento1 && elemento1.innerText.includes('Suscribirse') | (elemento1 && elemento1.innerText.includes('Suscribirme'))) {
     console.log("¡Se encontró la palabra 'Suscribirse'!");
     elemento1.click();
     setTimeout(function() {
